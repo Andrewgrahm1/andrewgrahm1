@@ -17,11 +17,8 @@
 	Computer Science | Data Science | Data Analytics | Mathematics
 </h2>
 
-
-
-
 <div>
-	<h2 align="center">😊 About Me 😊</h2>
+	<h3 align="center">😊 About Me 😊</h3>
    	<div align="left">
 		<p> 🔭 I’m currently working on <b>Implementing Reinforcement Learning to the Snake Game</b></p>
 		<p> 📍 I'm from <b>Dallas, TX</b></p>
@@ -30,14 +27,14 @@
 		<p> ⚡ Fun fact <b>I like turtles</b>🐢</p>
    	</div>
 </div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
  <div align="center">
 	 <img src="https://skillicons.dev/icons?i=python,anaconda,azure,mysql,vscode,docker,sklearn,github,git,gitlab,arduino,cpp,cs,clion,eclipse,gcp,html,css,r,js,mongodb,c,java,jquery,latex,linux,matlab,php,postman,powershell,pycharm,raspberrypi,ubuntu" /><br>
  </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>🐍 My Contributions 🐍</h3>
       <br>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewgrahm1/andrewgrahm1/output/github-contribution-grid-snake-dark.svg" />
@@ -47,7 +44,7 @@
     <br/><br/><br/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
   <img width=455 src="https://streak-stats.demolab.com?user=andrewgrahm1&count_private=true&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
@@ -56,7 +53,7 @@
   <img width=400 align="center" src="https://github-readme-stats-andrewgrahm1.vercel.app/api/top-langs/?username=andrewgrahm1&count_private=true&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <div>
-	<h2 align="center">📧 Contact Me 📧</h2>
+	<h3 align="center">📧 Contact Me 📧</h3>
 	  <ul align="left">
 	     <a href="mailto:andrewgraham70@gmail.com" target="_blank">
 	       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="40" width="40" />
