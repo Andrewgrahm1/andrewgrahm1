@@ -19,9 +19,9 @@
 
 <h3 align="center">Computer Science | Data Science | Data Analytics | Mathematics</h3>
 
-<div align="left">
-	<h2>About Me</h2>
-   	<div>
+<div>
+	<h2 align="center">😊 About Me 😊</h2>
+   	<div align="left">
 		<p> 🔭 I’m currently working on <b>Implementing Reinforcement Learning to the Snake Game</b></p>
 		<p> 📍 I'm from <b>Dallas, TX</b></p>
 		<p> ❤️ I love to <b>code</b> and <b>make programs from scratch!</b></p>
@@ -29,17 +29,6 @@
 		<p> ⚡ Fun fact <b>I like turtles</b>🐢</p>
    	</div>
 </div>
-<div align="left">
-	<h2>Contact</h2>
-	  <ul>
-	     <a href="mailto:andrewgraham70@gmail.com" target="_blank">
-	       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="40" width="40" />
-	     </a>
-	     <a href="https://www.linkedin.com/in/andrewgrahm/" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/98120384/219729767-329cec5a-8ef5-4f60-a67a-4e427909740e.png" alt="linkedin" height="40" width="40" />
-	     </a>
-	  </ul>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
  <div align="center">
@@ -64,4 +53,15 @@
   <img width=450 src="https://github-readme-stats.vercel.app/api?username=andrewgrahm1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
 	</br>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgrahm1&count_private=true&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<div>
+	<h2 align="center">📧 Contact Me 📧</h2>
+	  <ul align="left">
+	     <a href="mailto:andrewgraham70@gmail.com" target="_blank">
+	       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="40" width="40" />
+	     </a>
+	     <a href="https://www.linkedin.com/in/andrewgrahm/" target="_blank">
+		<img align="center" src="https://user-images.githubusercontent.com/98120384/219729767-329cec5a-8ef5-4f60-a67a-4e427909740e.png" alt="linkedin" height="40" width="40" />
+	     </a>
+	  </ul>
 </div>
