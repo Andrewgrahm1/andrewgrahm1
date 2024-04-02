@@ -14,10 +14,11 @@
 			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
 		</span>
 	</p>
+	Computer Science | Data Science | Data Analytics | Mathematics
 </h2>
 
 
-<h3 align="center">Computer Science | Data Science | Data Analytics | Mathematics</h3>
+
 
 <div>
 	<h2 align="center">😊 About Me 😊</h2>
