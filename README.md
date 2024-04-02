@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andrew+Graham!;" />
 </h1>
 
-<h2 align="center"><img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">2024 Graduate<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40"></h2>
+<h2 align="center"">
+	<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
+	2024 Graduate
+	<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
+</h2>
 
 
 <h3 align="center">Computer Science | Data Science | Data Analytics | Mathematics</h3>
