@@ -1,19 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=andrewgrahm1.andrewgrahm1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andrew+Graham!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Andrew+Graham!;+Welcome+To+My+Profile!" />
 </h1>
 
-<h2 align="center"">
-	<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
-	2024 Graduate
-	<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
+<h2 align="center">
+	<p>
+		<span style="display: inline-block;" >
+			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
+		</span>
+		<sup >2024 Graduate</sup>
+		<span style="display: inline-block;">
+			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
+		</span>
+	</p>
 </h2>
 
 
 <h3 align="center">Computer Science | Data Science | Data Analytics | Mathematics</h3>
-
-</br>
 
 <div align="left">
 	<h2>About Me</h2>
