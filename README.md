@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <img width=455 src="https://streak-stats.demolab.com?user=andrewgrahm1&count_private=true&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
-  <img width=450 src="https://github-readme-stats-andrewgrahm1.vercel.app/api?username=andrewgrahm1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=andrewgrahm1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
 	</br>
-  <img width=400 align="center" src="https://github-readme-stats-andrewgrahm1.vercel.app/api/top-langs/?username=andrewgrahm1&count_private=true&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgrahm1&count_private=true&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
