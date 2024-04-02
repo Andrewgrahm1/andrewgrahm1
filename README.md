@@ -13,14 +13,12 @@
 
 <div align="left">
 	<h2>About Me</h2>
-	<ul>
-   		<div>
-		<p> 🔭 I’m currently working on **Implementing Reinforcement Learning to the Snake Game**</p>
-		<p> 📍 I'm from **Dallas, TX**</p>
-		<p> 💬 My resume is located here **[here]**</p>
-		<p> ⚡ Fun fact **I like turtles**🐢</p>
-   		</div>
-	</ul>
+   	<div>
+		<p> 🔭 I’m currently working on <b>Implementing Reinforcement Learning to the Snake Game</b></p>
+		<p> 📍 I'm from <b>Dallas, TX</b></p>
+		<p> 💬 My resume is located <b>[here]</b></p>
+		<p> ⚡ Fun fact <b>I like turtles</b>🐢</p>
+   	</div>
 </div>
 <div align="left">
 	<h2>Contact</h2>
@@ -53,10 +51,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-andrewgrahm1.vercel.app/?user=andrewgrahm1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-andrewgrahm1.vercel.app/api?username=andrewgrahm1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrewgrahm1&count_private=true&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=andrewgrahm1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-andrewgrahm1.vercel.app/api/top-langs/?username=andrewgrahm1&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgrahm1&count_private=true&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <!--
