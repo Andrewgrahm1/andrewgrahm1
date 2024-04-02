@@ -54,12 +54,12 @@
 </div>
 <div>
 	<h3 align="center">📧 Contact Me 📧</h3>
-	  <ul align="left">
+	  <ul align="center">
 	     <a href="mailto:andrewgraham70@gmail.com" target="_blank">
-	       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="40" width="40" />
+	       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 	     </a>
 	     <a href="https://www.linkedin.com/in/andrewgrahm/" target="_blank">
-		<img align="center" src="https://user-images.githubusercontent.com/98120384/219729767-329cec5a-8ef5-4f60-a67a-4e427909740e.png" alt="linkedin" height="40" width="40" />
+		<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	     </a>
 	  </ul>
 </div>
