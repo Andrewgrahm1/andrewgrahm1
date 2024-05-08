@@ -22,6 +22,12 @@
    	<div align="left">
 		<p> 🔭 I’m currently working on <b>Implementing Reinforcement Learning to the Snake Game</b></p>
 		<p> 📍 I'm from <b>Dallas, TX</b></p>
+		<p> 🎓 I graduated from the University of Oklahoma</p>
+		<ul>
+			<li>B.S. in Computer Science</li>
+		        <li>Undergraduate Certificate of Data Science & Analytics</li>
+		        <li>Minor in Mathematics</li>
+		</ul>
 		<p> ❤️ I love to <b>code</b> and <b>make programs!</b></p>
 		<p> 💬 My resume is located <a href="Documents/Resume.pdf" target="_blank" Download><b>[here]</b></p>
 		<p> ⚡ Fun fact <b>I like turtles</b>🐢</p>
