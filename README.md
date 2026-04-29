@@ -29,7 +29,7 @@
 		        <li>Minor in Mathematics</li>
 		</ul>
 		<p> ❤️ I love to <b>code</b> and <b>make programs!</b></p>
-		<p> 💬 My resume is located <a href="Documents/Resume.pdf" target="_blank" Download><b>[here]</b></p>
+		<p> 💬 My resume is located <a href="Documents/Resume-BoomerSooner.pdf" target="_blank" Download><b>[here]</b></p>
 		<p> ⚡ Fun fact <b>I like turtles</b>🐢</p>
    	</div>
 </div>
