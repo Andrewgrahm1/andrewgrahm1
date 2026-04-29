@@ -6,10 +6,10 @@
 
 <h2 align="center">
 	<p>
-		<span style="display: inline-block; margin-right: -1px;">
+		<span style="display: inline-block;">
 			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
 		</span>
-		<sup >MS in Data Engineering</sup>
+		<sup style="margin-left: -5px;">MS in Data Engineering</sup>
 		<span style="display: inline-block;">
 			<img src="images/SMUlogo.png" alt="Southern Methodist University Logo" height="30">
 		</span>
