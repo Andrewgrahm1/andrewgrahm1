@@ -22,6 +22,7 @@
    	<div align="left">
 		<p> 🔭 I’m currently working on <b>Implementing Reinforcement Learning to the Snake Game</b></p>
 		<p> 📍 I'm from <b>Dallas, TX</b></p>
+		<p> 🎓 I Am Currently Working on My Masters of Science in Data Engineering at SMU</p>
 		<p> 🎓 I Graduated from the University of Oklahoma</p>
 		<ul>
 			<li>B.S. in Computer Science</li>
