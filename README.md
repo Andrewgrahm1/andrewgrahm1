@@ -11,7 +11,7 @@
 		</span>
 		<sup >2024 Graduate</sup>
 		<span style="display: inline-block;">
-			<img src="images/SMUlogo.png" alt="Southern Methodist University Logo" height="40">
+			<img src="images/SMUlogo.png" alt="Southern Methodist University Logo" height="30">
 		</span>
 	</p>
 	Computer Science | Data Science | Data Analytics | Mathematics
