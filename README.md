@@ -9,7 +9,7 @@
 		<span style="display: inline-block;" >
 			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
 		</span>
-		<sup >2024 Graduate</sup>
+		<sup >MS in Data Engineering</sup>
 		<span style="display: inline-block;">
 			<img src="images/SMUlogo.png" alt="Southern Methodist University Logo" height="30">
 		</span>
