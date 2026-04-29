@@ -14,7 +14,7 @@
 			<img src="images/SMUlogo.png" alt="Southern Methodist University Logo" height="30">
 		</span>
 	</p>
-	Computer Science | Data Science | Data Analytics | Mathematics
+	Data Engineering | Computer Science | Data Science | Data Analytics | Mathematics
 </h2>
 
 <div>
