@@ -7,7 +7,7 @@
 <h2 align="center">
 	<p>
 		<span style="display: inline-block;" >
-			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40" margin="20">
+			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40" margin="10">
 		</span>
 		<sup >2024 Graduate</sup>
 		<span style="display: inline-block;">
