@@ -6,7 +6,7 @@
 
 <h2 align="center">
 	<p>
-		<span style="display: inline-block; margin-right: -5px;">
+		<span style="display: inline-block; margin-right: -1px;">
 			<img src="images/OUlogo.png" alt="University of Oklahoma Logo" height="40">
 		</span>
 		<sup >MS in Data Engineering</sup>
